@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("Ini Title")sdkfjbsf
+st.title("Ini Title")
 st.text("1234241")
 nama = st.text_input("Nama", "Nama anda")
 nim = st.text_input("NIM", "10 digit")
